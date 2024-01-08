@@ -39,14 +39,15 @@ section#telefone{
 }
 
 
-section#redes-sociais > img{
-border-radius: 50%;
+iframe#iphone{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 268px;
+    height: 471px;
+
+
+
+
 
 }
-
-
-
-
-
-
-
