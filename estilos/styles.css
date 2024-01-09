@@ -44,7 +44,9 @@ iframe#iphone{
     height: 471px;
 }
 
-
+section#redes-sociais > a > img{
+    border-radius: 50%;
+}
 
 
 
