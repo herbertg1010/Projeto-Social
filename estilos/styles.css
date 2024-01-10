@@ -70,15 +70,15 @@ section#redes-sociais > a > img:hover{
   
  section#redes-sociais{
     display: flex;
-    flex-direction: row;
-    margin-right: 200px;
+    flex-direction: column;
+    
     
     
     
 }
 section#redes-sociais > a > img{
-    padding: 5px;
-    width: 50px;
+    padding: 0px;
+    width: 40px;
     margin-top: 3px;
 }
 
